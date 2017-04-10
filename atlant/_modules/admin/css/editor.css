@@ -1,0 +1,10 @@
+div {border: 1px solid #e2e1dd; padding: 4px}
+p {border: 1px solid blue; padding: 2px}
+address {border: 1px solid green; padding: 2px}
+blockquote {border-left: 2px solid green; padding-left: 10px}
+span {border: 1px solid yellow; display: inline-block}
+
+table td, table th {border: 1px solid gray}
+
+form label {border: 1px solid gray}
+form {border: 2px dotted red; padding: 20px; background: #f0e2e2}
